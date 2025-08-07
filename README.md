@@ -67,3 +67,9 @@ export default tseslint.config([
   },
 ])
 ```
+```bash
+$ git clone https://github.com/Khanhtallinn/delta
+$ cd delta
+$ pnpm install
+$ pnpm run dev
+```
